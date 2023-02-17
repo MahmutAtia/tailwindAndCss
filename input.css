@@ -1,0 +1,35 @@
+.root{
+    background-color: gray;
+}
+.header{
+    color: red;
+}
+.box{
+    background-color: blue;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+}
+#b1{
+    background-color: red;
+    position: absolute;
+    
+
+
+}
+#b2{
+    background-color: yellow;
+    position: absolute;
+    top: 400;
+    left: 200px;
+}   
+#b3{
+    background-color: green;
+    position: absolute;
+    left: 200px;
+}
